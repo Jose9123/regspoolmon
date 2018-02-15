@@ -30,7 +30,7 @@ class RegSpoolMon
 	end
 	# 	def send_email(to,opts={})
 # 		  opts[:server]      ||= 'smtp-gateway'
-# 		  opts[:from]        ||= 'regmonscript@gradschool.local'
+# 		  opts[:from]        ||= 'regmonscript@domain.local'
 # 		  opts[:from_alias]  ||= 'Example Emailer'
 # 		  opts[:subject]     ||= "You need to see this"
 # 		  opts[:body]        ||= "Important stuff!"
